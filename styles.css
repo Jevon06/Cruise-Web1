@@ -1,0 +1,46 @@
+body {
+background-color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+color: blue;
+text-align: center;
+
+}
+
+h2 {
+color: darkblue;
+font-size: 24px;
+
+}
+
+p {
+color: black;
+font-size: 18px;
+line-height: 1.5;
+
+}
+
+.highlight  {
+background-color: yellow;
+color: darkblue;
+font-weight: bold;
+
+}
+
+.note {
+background-color: gray;
+border-left: 5px blue;
+font-style: italic;
+
+}
+
+a {
+    color: #006c02;
+}
+
+a:hover {
+    text-decoration: underline;
+}
